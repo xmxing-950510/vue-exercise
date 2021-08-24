@@ -1,0 +1,128 @@
+{
+  "id": "2679922",
+  "name": "haitong-diaodu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "海通调度系统",
+  "glyphs": [
+    {
+      "icon_id": "354417",
+      "name": "帮助",
+      "font_class": "iconfonticon4",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1188552",
+      "name": "编辑",
+      "font_class": "bj",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "1703540",
+      "name": "上传",
+      "font_class": "shangchuan",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "1799463",
+      "name": "仪表盘",
+      "font_class": "panel",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "1799696",
+      "name": "配置",
+      "font_class": "peizhi",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "7987507",
+      "name": "系统",
+      "font_class": "xitong-",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "8094173",
+      "name": "查看",
+      "font_class": "chakan",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "12097768",
+      "name": "新增",
+      "font_class": "xinzeng",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "13196678",
+      "name": "跳过-solid",
+      "font_class": "tiaoguo-solid",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "14227038",
+      "name": "关联产品",
+      "font_class": "guanlianchanpin",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "15388195",
+      "name": "新增",
+      "font_class": "xinzeng1",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "16372298",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "17710289",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e7f9",
+      "unicode_decimal": 59385
+    },
+    {
+      "icon_id": "18386857",
+      "name": "执行",
+      "font_class": "zhihang",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "19846548",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "20341337",
+      "name": "发布",
+      "font_class": "fabu2",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "20418535",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    }
+  ]
+}
