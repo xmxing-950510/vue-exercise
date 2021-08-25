@@ -13,3 +13,9 @@ bg-leftmenu {
 a {
   text-decoration: none;
 }
+
+// 从写的Element-ui样式
+.el-card__body {
+  box-sizing: border-box;
+  height: 100%
+}

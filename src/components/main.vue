@@ -2,9 +2,9 @@
   <div class="main-wrapper">
     <left-menu class="left-menu"></left-menu>
     <div class="main-content">
-      <div class="content-wrapper">
+      <el-card class="content-wrapper">
         <router-view></router-view>
-      </div>
+      </el-card>
     </div>    
   </div>
 </template>

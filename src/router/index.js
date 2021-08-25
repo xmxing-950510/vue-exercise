@@ -9,6 +9,7 @@ import LifeCycleDemo from '@/components/life-cycle/index'
 //********** 
 //g6
 import G6Demo from '@/components/g6/demo'
+import DemoAnimate from '@/components/g6/demo-animate'
 import Tutorial2 from '@/components/g6/tutorial2'
 import MlG6 from '@/components/g6/ml-g6/example/demo'
 
@@ -37,7 +38,7 @@ import ElementUIDemo from '@/components/element-ui/tree-select-demo'
 
 //*********************
 //iconfont
-import Icon from '@/components/iconfont'
+import Icon from '@/components/iconfont/iconfont'
 
 //*********************
 // markdown
@@ -56,6 +57,10 @@ Vue.use(Router)
 
 export default new Router({
   routes: [
+    {
+      path: '/',
+      redirect: '/g6/ml-g6'
+    },
     {
       path: '/basic',
       name: 'MainContainer',
@@ -117,6 +122,7 @@ export default new Router({
         {path: 'demo', component: G6Demo},
         {path: 'tutorial2', component: Tutorial2},
         {path: 'ml-g6', component: MlG6},
+        {path: 'demo-animate', component: DemoAnimate},
       ]
     },
     // {

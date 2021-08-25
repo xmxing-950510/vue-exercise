@@ -6,6 +6,55 @@
   "description": "海通调度系统",
   "glyphs": [
     {
+      "icon_id": "6246309",
+      "name": "组件",
+      "font_class": "zujian",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "17631376",
+      "name": "pie-chart",
+      "font_class": "pie-chart",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "23445859",
+      "name": "矩形树图",
+      "font_class": "juxingshutu",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "593477",
+      "name": "文件夹",
+      "font_class": "weibiaoti5",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "2542178",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "7969011",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "10907201",
+      "name": "文件",
+      "font_class": "wenjian1",
+      "unicode": "e8cd",
+      "unicode_decimal": 59597
+    },
+    {
       "icon_id": "354417",
       "name": "帮助",
       "font_class": "iconfonticon4",
